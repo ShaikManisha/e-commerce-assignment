@@ -34,7 +34,7 @@ const ProductDetailsPage = () => {
   };
 
   return (
-    <div className="container mx-auto my-8">
+    <div className="container mx-auto my-5">
       <div className="flex px-4">
         <ImageGallery
           images={productDetails?.images}
